@@ -1,0 +1,19 @@
+{
+    "name": "cli-all",
+    "version": "0.0.1",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^0.20.0",
+        "browser-list": "^0.0.3",
+        "chalk": "^4.1.0",
+        "clear": "^0.1.0",
+        "clipboardy": "^2.3.0",
+        "detect-browser": "^5.1.1",
+        "open": "^7.2.1",
+        "ora": "^5.1.0",
+        "paygreen-node": "^0.2.0",
+        "prompts": "^2.3.2",
+        "yargs": "^16.0.3"
+    }
+}
